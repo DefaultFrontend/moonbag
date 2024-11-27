@@ -3,7 +3,6 @@ import styles from './styles.module.css';
 import dexscreener from './assets/dexscreener.png';
 import x from './assets/x.png';
 import tg from './assets/tg.webp';
-import vid from './assets/vid.mp4';
 
 const App: React.FC = () => {
   return (

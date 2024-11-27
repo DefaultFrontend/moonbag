@@ -8,6 +8,7 @@ export default defineConfig({
   optimizeDeps: {
     include: ['mobx', 'mobx-react-lite'],
   },
+  base: '/moonbag/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
