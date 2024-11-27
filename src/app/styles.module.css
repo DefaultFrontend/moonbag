@@ -1,0 +1,4 @@
+.bg {
+  background: url('./assets/bg.webp') no-repeat center top/cover;
+  min-height: calc(100vh - 120px);
+}

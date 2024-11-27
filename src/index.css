@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'SF-Pro-Display', sans-serif;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  color: #fff;
+}
